@@ -1,5 +1,6 @@
 ### Welcome to my GitHub profile
 I am an undergraduate in Computer Science at University of Brasília (Brazil). Here you have access to all my open source projects developed at the college, as well as personal projects. Feel free to contribute :)
+- Software Engineer @ TapGoods
 - 🔭 I’m currently learning about microservices and microfrontends architecture, as well as related design patterns.
 - 🌱 I’m constantly practicing my problem solving skills by using algorithms and data structures 
 
